@@ -1,0 +1,66 @@
+[
+  {
+    "feature": "ST_Slope",
+    "importance": 0.23840624044516073
+  },
+  {
+    "feature": "ChestPainType",
+    "importance": 0.10823861604664403
+  },
+  {
+    "feature": "Oldpeak",
+    "importance": 0.09518300420951403
+  },
+  {
+    "feature": "MaxHR",
+    "importance": 0.08075387219331814
+  },
+  {
+    "feature": "Cholesterol",
+    "importance": 0.08059190326603931
+  },
+  {
+    "feature": "ExerciseAngina",
+    "importance": 0.07348285339263219
+  },
+  {
+    "feature": "Age_HR_Interaction",
+    "importance": 0.06266318775002905
+  },
+  {
+    "feature": "Age_BP_Interaction",
+    "importance": 0.05691801662710255
+  },
+  {
+    "feature": "Age",
+    "importance": 0.0490100302334474
+  },
+  {
+    "feature": "RestingBP",
+    "importance": 0.04236415015473902
+  },
+  {
+    "feature": "Sex",
+    "importance": 0.02823040702193031
+  },
+  {
+    "feature": "HRCategory",
+    "importance": 0.023193180024871748
+  },
+  {
+    "feature": "RestingECG",
+    "importance": 0.018266766474823073
+  },
+  {
+    "feature": "FastingBS",
+    "importance": 0.01708291584322275
+  },
+  {
+    "feature": "AgeGroup",
+    "importance": 0.013199426526705202
+  },
+  {
+    "feature": "BPCategory",
+    "importance": 0.012415429789820371
+  }
+]

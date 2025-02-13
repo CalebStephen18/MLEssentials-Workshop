@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/caleb/OneDrive/Documents/GitHub/MLEssentials-Workshop/mlruns/576274593619539904/921c2c1efc314d04936060fe237e5694/artifacts
+end_time: 1739433574762
+entry_point_name: ''
+experiment_id: '576274593619539904'
+lifecycle_stage: active
+run_id: 921c2c1efc314d04936060fe237e5694
+run_name: training_20250213_132926
+run_uuid: 921c2c1efc314d04936060fe237e5694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739433567481
+status: 3
+tags: []
+user_id: caleb
