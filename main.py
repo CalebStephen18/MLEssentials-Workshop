@@ -85,7 +85,7 @@ def main():
             "Then unzip it to the data directory"
         )
         return
-    
+
     try:
         # Load and preprocess data
         logger.info("Starting data pipeline")
