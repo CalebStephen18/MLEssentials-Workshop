@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/caleb/OneDrive/Documents/GitHub/MLEssentials-Workshop/mlruns/576274593619539904/c1b11432e52d4f36aea782c45fb48ebe/artifacts
+end_time: 1739441775557
+entry_point_name: ''
+experiment_id: '576274593619539904'
+lifecycle_stage: active
+run_id: c1b11432e52d4f36aea782c45fb48ebe
+run_name: amusing-lamb-605
+run_uuid: c1b11432e52d4f36aea782c45fb48ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739441775528
+status: 3
+tags: []
+user_id: caleb
