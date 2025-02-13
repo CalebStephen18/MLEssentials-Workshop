@@ -1,0 +1,9 @@
+cryptography==44.0.1
+matplotlib==3.8.3
+matplotlib-inline==0.1.6
+numpy==1.26.3
+pandas==2.2.1
+scikit-build==0.17.6
+scikit-learn==1.4.1.post1
+mlflow==2.20.1
+pytest==8.3.4
